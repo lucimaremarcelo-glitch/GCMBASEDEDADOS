@@ -1,0 +1,7 @@
+{
+  "name": "GCM Ribeirão - Operacional Digital",
+  "description": "Sistema avançado de gestão operacional para a Guarda Civil Municipal, incluindo extração de dados por IA, relatórios em PDF e sincronização em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
